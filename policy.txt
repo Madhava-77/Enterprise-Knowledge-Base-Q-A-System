@@ -1,0 +1,7 @@
+Leave Policy:
+Employees get 20 paid leaves per year.
+Maximum 10 days can be carried forward.
+
+Work Policy:
+Employees must work 8 hours per day.
+Remote work allowed 2 days per week.
